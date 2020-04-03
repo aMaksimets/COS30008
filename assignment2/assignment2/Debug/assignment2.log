@@ -1,0 +1,13 @@
+﻿  ArraySorter.cpp
+C:\Users\Alek\Desktop\Data Structures\Assignment 2\assignment2\assignment2\src\ArraySorter.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alek\Desktop\Data Structures\Assignment 2\assignment2\assignment2\src\ArraySorter.cpp(12,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alek\Desktop\Data Structures\Assignment 2\assignment2\assignment2\src\ArraySorter.cpp(67,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alek\Desktop\Data Structures\Assignment 2\assignment2\assignment2\src\ArraySorter.cpp(70,15): warning C4018: '<': signed/unsigned mismatch
+  InsertionSort.cpp
+C:\Users\Alek\Desktop\Data Structures\Assignment 2\assignment2\assignment2\src\InsertionSort.cpp(10,11): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  SelectionSort.cpp
+C:\Users\Alek\Desktop\Data Structures\Assignment 2\assignment2\assignment2\src\SelectionSort.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alek\Desktop\Data Structures\Assignment 2\assignment2\assignment2\src\SelectionSort.cpp(12,25): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  assignment2.vcxproj -> C:\Users\Alek\Desktop\Data Structures\Assignment 2\assignment2\Debug\assignment2.exe
